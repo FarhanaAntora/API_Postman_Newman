@@ -1,0 +1,39 @@
+{
+	"id": "135897e6-d054-41d7-a7f4-b25a596f5109",
+	"name": "CustomerEnv",
+	"values": [
+		{
+			"key": "token",
+			"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNhbG1hbiIsInJvbGUiOiJtZW1iZXIiLCJpYXQiOjE2NDAwOTA1MjcsImV4cCI6MTY0MDA5MjMyN30.5toJnRMkiMlPBl4vM7DzQUv9Sx98qvC5p0UoC98NEfw",
+			"enabled": true
+		},
+		{
+			"key": "baseURL",
+			"value": "https://customer-test-api.herokuapp.com",
+			"enabled": true
+		},
+		{
+			"key": "id",
+			"value": 1354,
+			"enabled": true
+		},
+		{
+			"key": "name",
+			"value": "Skylar Schuppe",
+			"enabled": true
+		},
+		{
+			"key": "email",
+			"value": "marlene83@testmail.com",
+			"enabled": true
+		},
+		{
+			"key": "phone_number",
+			"value": "05319439015",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2021-12-21T12:45:58.217Z",
+	"_postman_exported_using": "Postman/9.6.0"
+}
